@@ -1,1 +1,2 @@
-Modules folder
+All modules go here. The module loader won't run anything else if it finds syntax errors in any of the files put in here.
+You can safely delete this, however, if you redistribute an edited version of this addon, please keep this .txt file inside this folder.
