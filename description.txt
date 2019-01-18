@@ -1,12 +1,3 @@
 Name: Custom Module Loader
 Author: Dominoes
-Load cs files from a base "modules" folder. Includes two functions from the first installation, which may be removed at one's own expense:
-
-Custom Shapenames (customnames.cs)
-Change the shapename of a user. Does not persist when a user respawns or rejoins, yet.
-Change "person" to a user's name, and "newname" to, well, the desired name.
-/setcustomname person newname | /removecustomname person
-
-VowelChat (vowelchat.cs)
-Changes every vowel in a chat to an uppercase "O".
-/togglevowelchat
+Loads scripts from a base "modules" folder.
